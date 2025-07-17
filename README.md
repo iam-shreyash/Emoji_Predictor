@@ -43,8 +43,6 @@ emoji_predictor/
 1. Clone the Repository
 bash
 Copy
-Edit
-git clone https://github.com/your-username/Emoji_Predictor.git
 cd Emoji_Predictor
 2. Set Up Environment & Install Flask
 bash
