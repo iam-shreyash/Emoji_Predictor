@@ -27,16 +27,24 @@ This project uses NLP techniques and a trained machine learning model to predict
 Emoji_Predictor/
 │
 ├── app.py # Main Flask application
+
 ├── requirements.txt # Required Python libraries
+
 ├── README.md # Project documentation
+
 │
 ├── model/
+
+
 │ └── emoji_model.pkl # Trained machine learning model
+
 │
 ├── static/
+
 │ └── style.css # CSS file for styling the web UI
 │
 └── templates/
+
 └── index.html # HTML template for the web page
 
 
