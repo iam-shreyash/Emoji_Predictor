@@ -24,3 +24,48 @@ This project uses NLP techniques and a trained machine learning model to predict
 
 ## 📁 Project Structure
 
+Emoji_Predictor/
+│
+├── app.py # Main Flask application
+├── requirements.txt # Required Python libraries
+├── README.md # Project documentation
+│
+├── model/
+│ └── emoji_model.pkl # Trained machine learning model
+│
+├── static/
+│ └── style.css # CSS file for styling the web UI
+│
+└── templates/
+└── index.html # HTML template for the web page
+
+## 💻 How to Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Emoji_Predictor.git
+   cd Emoji_Predictor
+Set Up Environment & Install Dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the App
+
+bash
+Copy
+Edit
+python app.py
+Open in Browser
+
+Go to: http://127.0.0.1:5000
+
+🧪 Example Input
+Input: I love programming!
+
+Output: 💻 ❤️
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request with your improvements.
