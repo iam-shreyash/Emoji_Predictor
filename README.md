@@ -39,33 +39,12 @@ Emoji_Predictor/
 └── templates/
 └── index.html # HTML template for the web page
 
-## 💻 How to Run Locally
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/Emoji_Predictor.git
-   cd Emoji_Predictor
-Set Up Environment & Install Dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the App
-
-bash
-Copy
-Edit
-python app.py
-Open in Browser
-
-Go to: http://127.0.0.1:5000
-
-🧪 Example Input
+## 🧪 Example Input
 Input: I love programming!
 
 Output: 💻 ❤️
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request with your improvements.
